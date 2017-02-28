@@ -16,11 +16,6 @@ buildNumber.properties
 
 .gitignore
 .idea/
-pom.xml
-src/main/java/emitter/Invoice.java
-src/main/java/emitter/SseEmitterHelloWorldApplication.java
-src/main/resources/
-src/test/
 sse-emitter-helloworld.iml
 /target
 
