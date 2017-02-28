@@ -1,6 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
 ### Maven template
-target/
+=======
+
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
@@ -21,3 +22,5 @@ src/main/java/emitter/SseEmitterHelloWorldApplication.java
 src/main/resources/
 src/test/
 sse-emitter-helloworld.iml
+/target
+
